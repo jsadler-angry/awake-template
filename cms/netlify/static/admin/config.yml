@@ -38,6 +38,6 @@ collections:
     slug: "{{slug}}"
     identifier_field: name
     fields:
-      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Name", name: "client", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Description", name: "description", widget: "markdown"}
